@@ -6,7 +6,7 @@
 
 🔭Exploring **Java** projects as part of my Intro to Computer Science course, focusing on building practical applications.</br>
 🌱Designed and built an app using **Flutter** to gain hands-on experience in mobile development.</br>
-👯**Technovation Challenge**: Led a team of three to develop a mobile app to reduce kidnapping rates in Nigeria. Our team won the **Regional Winners for Africa** award and received funding for further development. </br>
+👯**Technovation Challenge**: Collaborated with a team of three to develop a mobile app to reduce kidnapping rates in Nigeria. Our team won the **Regional Winners for Africa** award and received funding for further development. </br>
 ⚡**UI/UX Design**: Completed a **UI/UX Bootcamp**, where I gained proficiency in user research, wireframing, and prototyping. </br>
 🔭Exploring **Flutter** and mobile app development on an intermediate level. </br>
 🎯Diving deeper into **Java** development through coursework and personal projects.
