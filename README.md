@@ -1,15 +1,15 @@
 ### Hi👋 I'm Esther!
 
-**Welcome to my Github Profile. I am a freshman at the University of Puget Sound planning to major in Computer Science and Mathematics. I am passionate about software development, UI/UX design, and using technology to solve real-world problems.**
+**Welcome to my Portfolio!**</br>
 
 
+🔭Currently conducting funded research on graph-based Retrieval-Augmented Generation (RAG) techniques to reduce hallucinations in medical LLMs, using tools like Stanford NLP, MALLET, OpenAI API, Java, and Python</br>
 
-🔭Exploring **Java** projects as part of my Intro to Computer Science course, focusing on building practical applications.</br>
-🌱Designed and built an app using **Flutter** to gain hands-on experience in mobile development.</br>
-👯**Technovation Challenge**: Collaborated with a team of three to develop a mobile app to reduce kidnapping rates in Nigeria. Our team won the **Regional Winners for Africa** award and received funding for further development. </br>
-⚡**UI/UX Design**: Completed a **UI/UX Bootcamp**, where I gained proficiency in user research, wireframing, and prototyping. </br>
-🔭Exploring **Flutter** and mobile app development on an intermediate level. </br>
-🎯Diving deeper into **Java** development through coursework and personal projects.
+🌱Learning advanced Java, data structures, and machine learning fundamentals</br>
+
+👯**Technovation Challenge**: Built GOFINDME – a safety app that won Technovation Africa Regional Winner </br>
+
+⚡**UI/UX Design**: Completed a UI/UX Bootcamp — skilled in user research, wireframing, and prototyping</br>
 
 ## Languages
 <p align="left">
