@@ -3,13 +3,15 @@
 **Welcome to my Portfolio!**</br>
 
 
-🔭Currently conducting funded research on graph-based Retrieval-Augmented Generation (RAG) techniques to reduce hallucinations in medical LLMs, using tools like Stanford NLP, MALLET, OpenAI API, Java, and Python</br>
+🔭Conducted funded research on graph-based Retrieval-Augmented Generation (RAG) techniques to reduce hallucinations in medical LLMs, using Stanford NLP, MALLET, OpenAI API, Java, and Python. Presented at the MIT IEEE Undergraduate Research Technology Conference and Murdock Science Research Conference.</br>
 
-🌱Learning advanced Java, data structures, and machine learning fundamentals</br>
+💼 Incoming Software Engineering Intern @ Intuit Credit Karma · Incoming Break Through Tech AI Fellow · Computer Science Lab Assistant · Incoming Subject Tutor (Math & Statistics) @ University of Puget Sound Center for Writing and Learning.</br>
 
-👯**Technovation Challenge**: Built GOFINDME – a safety app that won Technovation Africa Regional Winner </br>
+🌱 Currently deepening my skills in DSA, machine learning, and AI safety & interpretability.</br>
 
-⚡**UI/UX Design**: Completed a UI/UX Bootcamp — skilled in user research, wireframing, and prototyping</br>
+👯 Technovation Challenge: Built GoFindMe, a safety app, and Technovation Africa Regional Winner.</br>
+
+⚡ UI/UX Design: Completed a UI/UX Bootcamp. Skilled in user research, wireframing, and prototyping.</br>
 
 ## Languages
 <p align="left">
