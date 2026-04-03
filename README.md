@@ -5,7 +5,7 @@
 
 🔭Conducted funded research on graph-based Retrieval-Augmented Generation (RAG) techniques to reduce hallucinations in medical LLMs, using Stanford NLP, MALLET, OpenAI API, Java, and Python. Presented at the MIT IEEE Undergraduate Research Technology Conference and Murdock Science Research Conference.</br>
 
-💼 Incoming Software Engineering Intern @ Intuit Credit Karma · Incoming Break Through Tech AI Fellow · Computer Science Lab Assistant · Incoming Subject Tutor (Math & Statistics) @ University of Puget Sound Center for Writing and Learning.</br>
+💼 Incoming Software Engineering Intern @ Intuit Credit Karma · Computer Science Lab Assistant · Incoming Subject Tutor (Math & Statistics) @ University of Puget Sound Center for Writing and Learning.</br>
 
 🌱 Currently deepening my skills in DSA, machine learning, and AI safety & interpretability.</br>
 
